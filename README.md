@@ -7,7 +7,7 @@
   * Play the drums 🥁
   * Play video games 🎮 
   * Explore the city 🌆
-  * Make memories with friends, family, and colleagues
+  * Learn new skills in computing and programming
 
 # What do I know and what do I want to learn
   Currently, my two strongest programming languages are 
