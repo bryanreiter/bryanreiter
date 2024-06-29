@@ -13,4 +13,4 @@
 
 # Langauges, Frameworks, & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,python,java,c,git,tailwindcss,bootstrap,npm,discordjs&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,python,java,c,git,tailwindcss,npm,discordjs,vscode,raspberrypi,linux,apple,windows,flask,figma,mysql&perline=7)](https://skillicons.dev)
